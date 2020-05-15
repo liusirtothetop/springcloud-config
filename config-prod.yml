@@ -1,0 +1,2 @@
+config:
+  springcloud master prod.yml
